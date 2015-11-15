@@ -1,0 +1,9 @@
+node_modules
+.DS_Store*
+hubot.conf
+hubot.env
+hubot.log
+hubot.pid
+bin
+package.json
+Procfile
